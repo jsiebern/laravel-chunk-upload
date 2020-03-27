@@ -1,5 +1,5 @@
 {
-  "name": "kladislav/laravel-chunk-upload",
+  "name": "jsiebern/laravel-chunk-upload",
   "description": "Service for chunked upload with several js providers",
   "license": "MIT",
   "keywords": [
